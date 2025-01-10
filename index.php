@@ -1,3 +1,3 @@
 <html>
-<?php echo "Welcome to my PHP application" ?>
+<?php echo "Welcome to my PHP application1" ?>
 </html>
